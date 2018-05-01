@@ -51,3 +51,10 @@ body{
   border: 5px;
   padding: 10px;
 }
+
+.column {
+  width: 30%;
+  float: left;
+  padding: 15PX;
+  text-align: center;
+}

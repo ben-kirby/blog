@@ -1,3 +1,7 @@
+body{
+  background-color: #e7d0f4;
+}
+
 .important {
   color: red;
   font-size: 20;
@@ -11,4 +15,39 @@
 .aboutme{
   font-style: italic;
   font-size: 14px;
+}
+
+.boxy{
+  background-color: blanchedAlmond;
+  text-align: center;
+  text-shadow: 5px 5px 15px teal;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.box-model {
+  margin: 125px;
+  border: 50px dotted olive;
+  padding: 6px;
+  background-color: blanchedalmond;
+}
+
+.leftsidebar{
+  width: 30%;
+  float: left;
+  background-color: #d0f4e3;
+  color: #38338c;
+  margin: 10px;
+  border: 5px;
+  padding: 10px;
+}
+
+.rightsidebar{
+  width: 30%;
+  float: right;
+  background-color: #38338c;
+  color: #d0f4e3;
+  margin: 10px;
+  border: 5px;
+  padding: 10px;
 }

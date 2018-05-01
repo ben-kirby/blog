@@ -1,0 +1,14 @@
+.important {
+  color: red;
+  font-size: 20;
+}
+
+.extra-bold{
+  font-weight: 600;
+  font-stretch: ultra-condensed;
+}
+
+.aboutme{
+  font-style: italic;
+  font-size: 14px;
+}
